@@ -10,5 +10,5 @@
 
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changzerr&show_icons=true&theme=tokyowhite)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changzerr&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changzerr&layout=compact&theme=tokyowhite)
 
