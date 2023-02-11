@@ -25,4 +25,3 @@
 * [长泽-个人网站](https://changzer502.github.io/)
 * [神奇的程序员-掘金](https://juejin.cn/user/704134044204685)
 
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=changzer502&show_icons=true&theme=dark&count_private=true)
