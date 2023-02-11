@@ -1,7 +1,9 @@
-### Hey，我是神奇的程序员
+### Hey，我是长泽
 <br />
 
 你好， 我是 [长泽](https://juejin.cn/user/704134044204685) ，出生于2002年，一位有在读的后端开发工程师。
+
+
 
 
   <img align="right" alt="GIF" src="./code.gif" width="430" height="100%" />
@@ -18,6 +20,10 @@
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./idea.png"></code>
 
+**我的开源项目:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=changzer502&repo=MFC-Gobang)](https://github.com/changzer502/MFC-Gobang)
+
 ----------
 
 **个人网站与技术社区:**
@@ -25,6 +31,4 @@
 * [长泽-个人网站](https://changzer502.github.io/)
 * [神奇的程序员-掘金](https://juejin.cn/user/704134044204685)
 
-**我的开源项目:**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=changzer502&repo=MFC-Gobang)](https://github.com/changzer502/MFC-Gobang)
