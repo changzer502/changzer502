@@ -25,3 +25,6 @@
 * [长泽-个人网站](https://changzer502.github.io/)
 * [神奇的程序员-掘金](https://juejin.cn/user/704134044204685)
 
+**我的开源项目:**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=changzer502&repo=MFC-Gobang)](https://github.com/changzer502/MFC-Gobang)
