@@ -29,6 +29,6 @@
 **个人网站与技术社区:**
 
 * [长泽-个人网站](https://changzer502.github.io/)
-* [神奇的程序员-掘金](https://juejin.cn/user/704134044204685)
+* [changzer-掘金](https://juejin.cn/user/704134044204685)
 
 
