@@ -20,10 +20,6 @@
 <code><img height="20" src="./git.png"></code>
 <code><img height="20" src="./idea.png"></code>
 
-**我的开源项目:**
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=changzer502&repo=MFC-Gobang)](https://github.com/changzer502/MFC-Gobang)
-
 ----------
 
 **个人网站与技术社区:**
